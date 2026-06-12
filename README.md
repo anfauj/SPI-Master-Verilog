@@ -30,6 +30,7 @@ The simulation outputs both single-bit physical wires and multi-bit data buses t
 4. **Completion:** After 16 cycles, `cs_n` is pulled back high, and the `done` flag pulses to indicate `rx_data` is valid.
 
 ### Timing Diagram
+<img width="1830" height="480" alt="image" src="https://github.com/user-attachments/assets/43c8c36a-c62c-4883-a586-2589f47e5c11" />
 
 ---
 *Developed for hardware verification and serial communication testing.*
